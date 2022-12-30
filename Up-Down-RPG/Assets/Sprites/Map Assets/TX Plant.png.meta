@@ -952,8 +952,8 @@ TextureImporter:
         y: 352
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.508584, y: 0.41415882}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1679,6 +1679,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: tree_01
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 361
+        width: 78
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5297351, y: 0.05808162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd588840ebb5e409efbab1a4fd8dac
+      internalID: 1149075745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1732,6 +1753,7 @@ TextureImporter:
       TX Plant_47: -945674610
       TX Plant_15: 1750924767
       TX Plant_51: 2139311896
+      tree_01: 1149075745
       TX Plant_72: 711599633
       TX Plant_57: 302274768
       TX Plant_0: -819488366
